@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Weather Application.openWeather.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Weather Application.openWeather.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Weather Application.openWeather.app.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Weather Application.openWeather.app.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Weather Application.openWeather.app.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Weather Application.openWeather.app.unitTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Weather Application.openWeather.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Weather Application.openWeather.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Weather Application.openWeather.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Weather Application.openWeather.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Weather Application.openWeather.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Weather Application.openWeather.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Weather Application.openWeather.domain.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Weather Application.openWeather.domain.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.openWeather.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.openWeather.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.openWeather.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.openWeather.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openWeather.iml" filepath="$PROJECT_DIR$/.idea/openWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/openWeather.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/openWeather.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/openWeather.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/openWeather.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/openWeather.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/openWeather.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/openWeather.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/openWeather.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/openWeather.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/openWeather.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/openWeather.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/openWeather.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/openWeather.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/openWeather.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/openWeather.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/openWeather.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/openWeather.domain.unitTest.iml" />
+    </modules>
+  </component>
+</project>
