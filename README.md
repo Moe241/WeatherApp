@@ -1,6 +1,3 @@
-Certainly! Below is a sample `README.md` file for a Kotlin-based weather app using Jetpack Compose and OpenWeather API:
-
-```markdown
 # WeatherApp
 
 WeatherApp is a simple and intuitive weather application built using Kotlin and Jetpack Compose. This app provides current weather information for any location, utilizing the OpenWeather API. The app displays weather conditions, temperature, humidity, wind speed, and other relevant data.
@@ -100,17 +97,6 @@ https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_KEY}
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-```
-
-### Key Points in the README:
-
-- **Features**: Lists the core functionality of the app.
-- **Prerequisites & Installation**: Clear instructions to help other developers set up the app locally.
 - **API Integration**: Provides context about the OpenWeather API and how it's integrated.
 - **Contributing** and **License**: Guidelines for contributing to the project and legal information. 
 
