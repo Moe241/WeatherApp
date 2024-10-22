@@ -100,4 +100,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 - **API Integration**: Provides context about the OpenWeather API and how it's integrated.
 - **Contributing** and **License**: Guidelines for contributing to the project and legal information. 
 
-Let me know if you need any more customization!
+
